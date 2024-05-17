@@ -16,10 +16,10 @@ El proyecto incluye los siguientes archivos y carpetas principales:
 ## Configuración
 
 1. **Archivo .env**: Antes de iniciar los servicios, debes crear un archivo `.env` en la raíz del proyecto con las siguientes variables:
-    MYSQL_ROOT_PASSWORD=tu_password_root
-    MYSQL_DATABASE=nombre_de_tu_base_de_datos
-    MYSQL_USER=usuario_de_base_de_datos
-    MYSQL_PASSWORD=password_de_usuario_de_base_de_datos
+    - MYSQL_ROOT_PASSWORD=tu_password_root
+    - MYSQL_DATABASE=nombre_de_tu_base_de_datos
+    - MYSQL_USER=usuario_de_base_de_datos
+    - MYSQL_PASSWORD=password_de_usuario_de_base_de_datos
 
 ## Despliegue
 
